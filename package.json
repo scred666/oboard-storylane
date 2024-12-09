@@ -1,0 +1,22 @@
+{
+  "name": "storylane-oboard",
+  "version": "1.0.0",
+  "description": "Modified storylane version. For prevent inline integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scred666/oboard-storylane.git"
+  },
+  "keywords": [
+    "storylane"
+  ],
+  "author": "undefined",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scred666/oboard-storylane/issues"
+  },
+  "homepage": "https://github.com/scred666/oboard-storylane#readme"
+}
